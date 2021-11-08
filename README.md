@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ConanisaCoder
+- 👋 Hi, I’m @ConanisaCoder\ Conan Oltaunji
 - 👀 I’m interested in Learing Programning Langauges
-- 🌱 I’m currently learning HTML,JavaScript And Css
--I know only 1 Programming Languague so far which is Python.
+- 🌱 I’m currently learning HTML,JavaScript And Css, Pthyon and Java
+
