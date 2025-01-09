@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ConanisaCoder\ Conan Olamide Oltaunji
-- 👀 I’m interested in learning Computer Engineering 
+- 👀 I’m interested in learning Computer Engineering / Electrical engineering 
 - 🌱 I plan on learning and using HTML/CSS, SQL, Python, Javascript, Java, Assembly & C/C++
