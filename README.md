@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ConanisaCoder\ Conan Olamide Oltaunji
 - 👀 I’m interested in learning Computer Science, Computer Engineering / Electrical engineering, Math, Chemistry and Physics
 - 🌱 I plan on learning and using Python, Javascript, Java, Assembly & C/C++
-- 🚀 I want to Innovate and Solve the World's Biggest Problems and 
+- 🚀 I want to Innovate
